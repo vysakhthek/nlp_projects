@@ -1,6 +1,6 @@
 # Speech To Text Converter
 
-This is a python project that converts Speech input to Text using NLP (Natural Language Processing). The library that we used here us Speech Recognition Library.
+This is a project that converts Speech input to Text using NLP (Natural Language Processing). The library that we used here us Speech Recognition Library.
 
 ### The SpeechRecognition library is a Python library that provides support for speech recognition using various speech recognition engines such as Google Speech Recognition, CMU Sphinx, and Microsoft Bing Voice Recognition.
 
