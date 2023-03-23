@@ -21,7 +21,7 @@ You can see a progress bar of 10 seconds.
 
 ![Screenshot from 2023-03-23 12-44-59](https://user-images.githubusercontent.com/116060493/227135290-92237117-24ca-4ede-aab6-6d94722ac66f.png)
 
-If you need to record your speech again press type "y". else type "n". Then the recorded speech will be saved in the recorded_text.txt file.
+If you need to record your speech again type "y". else type "n". Then the recorded speech will be saved in the recorded_text.txt file.
 
 ![Screenshot from 2023-03-23 12-45-13](https://user-images.githubusercontent.com/116060493/227135501-eec0780d-020d-4212-aa3f-c645bfcf60c4.png)
 
