@@ -14,7 +14,8 @@ The commands for installation is given below:
 
 ![Screenshot from 2023-03-23 12-48-16](https://user-images.githubusercontent.com/116060493/227134065-2edbda41-79e4-43ee-aeac-d2e43a3f3c09.png)
 
-When it starts running we can record a 10 seconds audio file using the system microphone.
+
+When the code starts running we can record a 10 seconds audio file using the system microphone.
 
 You can see a progress bar of 10 seconds.
 
